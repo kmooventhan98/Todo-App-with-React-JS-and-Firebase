@@ -1,0 +1,17 @@
+.todo__list{
+    text-align: center;
+}
+
+.modal-style{
+    width: 400px;
+    background-color: #fff;
+    position: absolute;
+    margin: 0 auto;
+    display: inline-block;
+    top: 10%;
+    left: 30%;
+    padding: 25px;
+    transform: translate(-50,-50);
+    
+   
+}
